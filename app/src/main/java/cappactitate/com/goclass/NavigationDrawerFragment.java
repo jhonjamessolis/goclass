@@ -248,14 +248,7 @@ public class NavigationDrawerFragment extends Fragment {
             return true;
         }
 
-        if (item.getItemId() == R.id.action_example) {
 
-
-
-
-
-
-        }
 
         return super.onOptionsItemSelected(item);
     }
